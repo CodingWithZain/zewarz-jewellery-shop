@@ -1,0 +1,6 @@
+{
+  "name": "Zewarz — Haute Joaillerie & Bespoke Luxury Jewelry",
+  "description": "Haute Joaillerie e-commerce flagship inspired by Zewarz, featuring handcrafted diamond solitaires, royal polki chokers, 18k gold heirlooms, interactive zoom PDP, currency conversion, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
